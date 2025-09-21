@@ -1,3 +1,0 @@
-C:/Users/1/Desktop/for MAI/labs 2 year/oop/laba1/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
-C:/Users/1/Desktop/for MAI/labs 2 year/oop/laba1/build/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
-C:/Users/1/Desktop/for MAI/labs 2 year/oop/laba1/build/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir
